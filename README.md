@@ -60,17 +60,7 @@ else:
     print("Unknown fault detected!")
 ```
 
-## Tech Stack
-
-- Python 3.8+
-- scikit-learn (SVM, One-Class SVM)
-- Optuna (hyperparameter optimization)
-- NumPy, Pandas, Matplotlib
-
 ## Author
 
-Ahmad Nabil — Master's Thesis, Aerospace Engineering, ULB (2025)
+Ahmad Nabil — Master's Thesis, Aeronautics Engineering, ULB (2025)
 
-## License
-
-MIT
