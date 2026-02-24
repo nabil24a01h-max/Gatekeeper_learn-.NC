@@ -3,5 +3,5 @@ Incremental fault diagnosis system for aerospace EMAs using Learn++.NC (SVM ense
 
 ## Author
 
-Ahmad Nabil — Master's Thesis, Aeronautics Engineering, ULB (2025)
+Ahmad Nabil — Master's Thesis, Aeronautics Engineering, ULB (2026)
 
