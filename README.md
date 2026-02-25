@@ -1,4 +1,4 @@
-# Incremental SVM
+# Incremental SVM + Novelty Detection
 Incremental fault diagnosis system for aerospace EMAs.
 
 ## Author
