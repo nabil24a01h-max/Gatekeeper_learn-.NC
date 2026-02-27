@@ -7,6 +7,7 @@ For the incremental SVM (no detection of novelty),  different methods are tried 
 2. Learn++.NC with DW-CAV algorithm
 3. Transfert of Support vectors between each expert and desactivation of old expert.
 4. A mix of method 2 and 3
+
 --> the best one being 3
    
 ## SVTransfer_v2.ipynb
