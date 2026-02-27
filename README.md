@@ -17,6 +17,8 @@ Using the best method extracted from file Voting_comparison.ipynb in order to ex
 ## test_plk_model.ipynb file
 It allows to try the pkl file coming from the SVTransfer_v2.ipynb. But it does not contain the gatekeeper yet. 
 
+## GateKeeper (novelty detection)
+...
 ## Author
 Ahmad Nabil — Master's Thesis, Aeronautics Engineering, ULB (2026)
 
