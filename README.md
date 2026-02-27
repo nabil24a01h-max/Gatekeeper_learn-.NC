@@ -1,6 +1,7 @@
 # Incremental SVM + Novelty Detection
 Incremental fault diagnosis system for aerospace EMAs.
-
+## How to use these file
+On google colab, import these files and the data file (exp8 and exp9) and just run the code
 ## Voting_comparison.ipynb
 For the incremental SVM (no detection of novelty),  different methods are tried :
 1. Learn++.NC with basic votes
