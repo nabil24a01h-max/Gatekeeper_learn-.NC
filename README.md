@@ -2,7 +2,7 @@
 Incremental fault diagnosis system for aerospace EMAs.
 
 ## Voting_comparison.ipynb
-For the incremental SVM (no detection of novelty), we try different types :
+For the incremental SVM (no detection of novelty),  different methods are tried :
 1. Learn++.NC with basic votes
 2. Learn++.NC with DW-CAV algorithm
 3. Transfert of Support vectors between each expert and desactivation of old expert.
