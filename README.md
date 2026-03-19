@@ -16,7 +16,8 @@ Using the best method extracted from file Voting_comparison.ipynb in order to ex
 
 ## test_plk_model.ipynb file
 It allows to try the pkl file coming from the SVTransfer_v2.ipynb. But it does not contain the gatekeeper yet. 
-
+## comparison files (static svm vs Svs transfert)
+2 files (one in the scenario where we have new fault and one in the case where we just want to refine our svms) have been upload in order to compare a static svm with the one we implemented.
 ## GateKeeper (novelty detection)
 ...
 ## Author
